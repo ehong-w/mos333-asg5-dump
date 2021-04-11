@@ -23,6 +23,8 @@ Compare and contrast the difference between First In First Out (FIFO) and Least 
 >
 > The FIFO algorithm is one of the simplest page replacement algorithm because it is easy to implement. However, by replacing an... ...
 
+---
+
 #### Question 2
 A system uses 3 page frames for storing process pages in main memory. It uses the Least Recently Used (LRU) page replacement policy. Assume that all the page frames are initially empty. What is the total number of page faults, page hit, fault ratio and hit ratio that will occur while processing the page reference string given below?
 
@@ -48,6 +50,8 @@ A system uses 3 page frames for storing process pages in main memory. It uses th
 > Fault ratio = 6/10 = 0.6
 >
 > Hit ratio = 4/10 = 0.4
+
+---
 
 #### Question 3
 A process contains eight virtual pages on disk and is assigned a fixed allocation of four page frames in main memory. The following page trace occurs :
@@ -89,3 +93,18 @@ A process contains eight virtual pages on disk and is assigned a fixed allocatio
 > Hit ratio for FIFO = ... ...
 >
 > The hit ratio for LRU and FIFO are ... ... . Both the page replacement algorithms have... ...
+
+---
+
+**@blaco**🐏: How's life? Did you check out my [GitHub](https://github.com/ehong-w/)? 😟\
+**@blaco**🐏: Drop me an email for other source code!\
+**@blaco**🐏: It's not free, but it worths just a price of a lunch. 🥗
+
+<p>
+  <img width="512" src="https://user-images.githubusercontent.com/68590570/113911631-c52ca900-980c-11eb-8946-19ce84f84c40.png">
+</p>
+
+## 🧸 **Leave me a message?**
+- 🍺 [E-mail](mailto:ehong.w@gmail.com?subject=[GitHub]%20Problem%20Description)
+- 🧺 [Linkedin](https://www.linkedin.com/in/ehong-w/)
+- ⛄ [Whatsapp]()
